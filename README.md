@@ -9,4 +9,4 @@ Dependencies used:
   databases: mySQL and MongoDB,
   logging: Winston,
   error handling: express-async-errors, 
-  server security: cors, dotenv, and oauth
+  server security: cors, dotenv, and oauth 
