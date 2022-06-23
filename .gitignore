@@ -126,8 +126,5 @@ package-lock.json
 # Android memory profiler files
 *.hprof
 
-# Mac 
-.DS_Store
-
 # Universal
 .env
